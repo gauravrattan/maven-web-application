@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>Gaurav Rattan Releases Nexus Repository</name>
+	      <url>http://13.127.225.244:7404/rattan/repository/facebook-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>Gaurav Rattan Snapshot Nexus Repository </name>
+	      <url>http://13.127.225.244:7404/rattan/repository/facebook-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
